@@ -1,5 +1,5 @@
 # Information about this Web project
-## This project  was developed by a student of group PHPDEV31 of the course "Web Developer" of [Skillfactory](www.skillfactory.ru)
+## This project  was developed by a student of group PHPDEV32 of the course "Web Developer" of [Skillfactory](www.skillfactory.ru)
 ## by Lysov Andrey
 ---
 ## How to open/launch
